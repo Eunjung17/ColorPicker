@@ -22,7 +22,7 @@ body {
   flex-grow: 1;
   max-height: 10%;
   min-height: 40px;
-  background-color: #222222;
+  background-color: #8c81da;
   color: white;
   display: flex;
   align-items: center;
@@ -60,13 +60,13 @@ body {
   background-color: #ffc153;
 }
 .green {
-  background-color: #27ae60;
+  background-color: #0a9243;
 }
 .blue {
   background-color: #1d4fda;
 }
 .violet {
-  background-color: #462446;
+  background-color: #aa25aa;
 }
 .black {
   background-color: #000000;
