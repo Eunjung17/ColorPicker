@@ -1,3 +1,2 @@
 # 🎨 Color Picker
-
-Follow the instructions in the workshop to finish the assignment!
+https://colorpicker17.netlify.app/
